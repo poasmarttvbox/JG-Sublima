@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Valor e qualidade
       color: text-dark
       styles:
         self:
@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: Canecas
         price: Free
         details: No credit card required
         description: >-
@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Camisetas
         price: $99
         details: per month
         description: >-
@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: outros personalizados
         price: Custom
         details: per month
         description: >-
