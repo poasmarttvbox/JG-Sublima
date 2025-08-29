@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: outros personalizado
+      - title: outros personalizados
         price: Custom
         details: per month
         description: >-
